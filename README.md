@@ -306,3 +306,5 @@ kubectl top node
 
 kubectl top pod <nome_do_pod>
 ```
+
+Contact: https://github.com/joabdeferreira / joabdeferreira@gmail.com
